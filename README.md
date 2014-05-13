@@ -1,5 +1,6 @@
 WcfDemo2013
 ===========
 
-Demo application that creates a WCF service contract across three different bindings
+Live demo application that creates a simple string-case-reversing WCF service across three different bindings.  Unit tests are included.
 
+![WCF Debug Screenshot](https://raw.githubusercontent.com/robertgreiner/WcfDemo2013/master/media/WCFScreenshot.png)
